@@ -23,7 +23,7 @@ im 18, i like playing video games and OF COURSE im a developer !
 
 
 
-## my language :
+## my languages review :
 |  language  | mastery (personnal /10) | difficulty (personal, /10) | avantage(personnal)                                                                                                        | disaventage (personnal)                                                                                                      | case of use                                                  |
 |:----------:|:---------:|:-----------------------:|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | python     | 8️⃣    | 4️⃣                  | easy to learn, fast to use, package manager, and the best communitie ive seen                                   | cannot be compiled                                                                                               | back-end, scripting and learning (for human or machine ;) )  |
