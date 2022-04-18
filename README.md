@@ -18,7 +18,7 @@ output :
 ```bash
 $> gcc me.c -Wextra -Wall -o yousk2.out
 $> ./yousk2.out
-im 18, i like playing video games and OF COURSE im a developer !
+"im 18, i like playing video games and OF COURSE im a developer !"
 ```
 
 
