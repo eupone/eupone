@@ -1,5 +1,5 @@
 
 
-<div align="center" markdown="1">
+<div markdown="1">
   # title
 </div>
