@@ -16,7 +16,7 @@ I'm 18yo, i like to playing video and **OF COURSE** i'm a developer ;)
 
 
 
-<p align="center">my best and upcoming project</p>
+## my best and upcoming project
 
 | **project** |                    description                   |            language            |       status       |                repo               |
 |:-------:|:------------------------------------------------:|:------------------------------:|:------------------:|:---------------------------------:|
