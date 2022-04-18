@@ -1,7 +1,7 @@
 
 # me
 ```c
-# me.c
+//me.c
 #include <stdio.h>
 
 #DEFINE AGE 18
