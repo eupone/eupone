@@ -1,6 +1,25 @@
 
 # me
-I'm 18yo, i like to playing video and **OF COURSE** i'm a developer ;) 
+```c
+# me.c
+#include <stdio.h>
+
+#DEFINE AGE 18
+char* AUTHOR = "eupone";
+char* ACTIVITY = "developer";
+
+
+int main(int argv, char** argc){
+    printf("im %d, i like playing video games and OF COURSE im a %s !",AGE,ACTIVITY);
+}
+
+```
+output :
+```bash
+$> gcc me.c -Wextra -Wall -o yousk2.out
+$> ./yousk2.out
+im 18, i like playing video games and OF COURSE im a developer !
+```
 
 
 
